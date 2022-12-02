@@ -1,0 +1,8 @@
+framework module SalientCore {
+    umbrella header "SalientCore.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
